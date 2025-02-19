@@ -1,0 +1,7 @@
+streamlit>=1.42.0
+crewai>=0.10.0
+crewai-tools>=0.36.0
+langchain-groq>=0.2.4
+sqlalchemy>=2.0.38
+python-dotenv>=1.0.0
+litellm>=1.60.0
