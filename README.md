@@ -1,10 +1,10 @@
-# Simple-AI-Agent-streamlit
+# Simple-AI-Agent and Streamlit
 Search the dataset related to a specific subject
-Voici la traduction en anglais de votre README :  
-
 ---
 
 # **Data Scout**  
+
+![Screenshot from 2025-02-19 21-48-54](https://github.com/user-attachments/assets/b847e6da-f6ed-4fff-9308-99e1ce99d440)
 
 **Data Scout** is an interactive web application that allows users to search for datasets using AI Agent. The application leverages **CrewAI** and **Groq** to analyze user queries and find relevant datasets from various sources.  
 
@@ -19,7 +19,7 @@ Voici la traduction en anglais de votre README :
 
 ### **Clone the repository:**  
 ```bash
-git clone https://github.com/your-username/data-scout.git
+git clone https://github.com/Maelabad/Simple-AI-Agent-and-Streamlit.git
 cd data-scout
 ```
 
@@ -67,4 +67,9 @@ data-scout/
 - The SQLite database is automatically created on first launch.  
 - Search results are stored in the `datasets` table.  
 - AI temperature can be adjusted from **0 (more conservative)** to **1 (more creative)**.
+
+
+
+
+
   
